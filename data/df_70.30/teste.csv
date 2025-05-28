@@ -1,4 +1,4 @@
-feature_0,feature_1,feature_2,feature_3,feature_4,feature_5,feature_6,feature_7,feature_8,feature_9,feature_10,feature_11,feature_12,feature_13,feature_14,feature_15,feature_16,feature_17,Result
+has_long_URL,has_long_domain,has_long_subdomain,suspect_subdomain_quantity,suspect_path_quantity,appears_to_redirect,prefix_suffix,having_at_symbol,has_URL_encoded,suspect_separators_quantity,has_form_reference,explored_tld,has_homographic_word,subdomain_forging_tld,host_on_greylist,has_valid_SSL,recent_validated_SSL,recent_registered_domain,Result
 0,0,-1,-1,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0
 0,-1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
 1,-1,-1,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0
