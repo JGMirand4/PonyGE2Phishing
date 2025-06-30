@@ -6,7 +6,7 @@ DATASET_TRAIN:          ../../data/df_70.30/treino.csv
 DATASET_TEST:           ../../data/df_70.30/teste.csv
 DEBUG:                  False
 ERROR_METRIC:           f1_score
-GENERATIONS:            200
+GENERATIONS:            500
 MAX_GENOME_LENGTH:      1000
 GRAMMAR_FILE:           ../../grammars/Classification_phishing.bnf
 INITIALISATION:         PI_grow
